@@ -187,7 +187,7 @@
 							<p class="mt-3">
 								Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
 							</p>
-							<a href="<?php echo site_url('PosterComp') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="<?php echo site_url('TablighAkbar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
 					</div>
 				</div>
