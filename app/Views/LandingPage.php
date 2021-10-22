@@ -205,61 +205,6 @@
 				</div>
 				<div class="col-lg-2 col-md-12 col-sm-12 p-3 flex hide-col"></div>
 			</div>
-				<!-- <div class="card card-event p-3">
-					<div class="card-body">
-						<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-						<h5>WEBINAR SERIES</h5>	
-						<p class="mt-3">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
-						</p>
-						<a href="<?php echo site_url('Webinar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
-					</div>					
-				</div>
-				
-				<div class="card card-event p-3">
-					<div class="card-body">
-						<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-						<h5>NATIONAL SEMINAR</h5>	
-						<p class="mt-3">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
-						</p>
-						<a href="<?php echo site_url('Seminar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
-					</div>					
-				</div>
-
-				<div class="card card-event p-3">
-					<div class="card-body">
-						<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-						<h5>POSTER COMPETITION</h5>	
-						<p class="mt-3">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
-						</p>
-						<a href="<?php echo site_url('PosterComp') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
-					</div>					
-				</div>
-
-				<div class="card card-event p-3">
-					<div class="card-body">
-						<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-						<h5>TABLIGH AKBAR</h5>	
-						<p class="mt-3">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
-						</p>
-						<a href="<?php echo site_url('PosterComp') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
-					</div>					
-				</div>
-
-				<div class="card card-event p-3">
-					<div class="card-body">
-						<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-						<h5>ALUMNI MEETUP</h5>	
-						<p class="mt-3">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
-						</p>
-						<a href="<?php echo site_url('Meetup') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
-					</div>					
-				</div> -->
-			</div>
 		</div>
 		
 		<br><br>
