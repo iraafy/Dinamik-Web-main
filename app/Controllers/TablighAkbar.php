@@ -6,6 +6,6 @@ class TablighAkbar extends BaseController
 {
     public function index()
     {
-        return view('TablighAkbar');
+        return view('TablighAkbarEvent');
     }
 }

@@ -79,6 +79,39 @@
 			</div>
 		</div>
 
+		<div class="container-fluid footer mt-5">
+			<div class="row flex-style m-5 mt-3 mb-3" style="border-bottom: 4px solid white;">
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<img src="/assets/logo.png" width="12%" alt="logo">
+					&nbsp;
+					<img src="/assets/Mask Group.png" width="50%" alt="logo">
+					<p class="pt-5" style="font-size:13px;">
+						Dinamik adalah acara perayaan ulang tahun keluarga mahasiswa ilmu komputer upi. Dinamik 16 mengusung tema “Character evolution for a better future
+					</p> 
+				</div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
+						Our Social Media
+					</p>
+					<span class="iconify" style="font-size: 20px" data-icon="akar-icons:instagram-fill"></span> &nbsp; @dinamik16
+				</div>
+
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
+						Usefull Links
+					</p>
+					<a href="/home" style="text-decoration: none; color: white">Home</a> <br>
+					<a href="/home#about" style="text-decoration: none; color: white">About</a> <br>
+					<a href="/home#event" style="text-decoration: none; color: white">Event</a>
+				</div>
+			</div>
+			<div class="row">
+				<p style="text-align: center;">Developed by DINAMIK Design Team</p>
+			</div>
+		</div>
+
+
 		<!-- Bootstrap & iconify -->
 		<script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>

@@ -8,7 +8,6 @@
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
 		<link rel="stylesheet" href="/css/style.css">
 	</head>
-
 	<body>
 		<nav class="navbar navbar-expand-lg navbar-light bg-color fixed-top">
 			<div class="container-fluid nav-padding">
@@ -38,17 +37,21 @@
 				</div>
 			</div>
 		</nav>
-
 		<div class="container mt-5 pt-5">
 			<div class="row p-3" style="text-align: justify;">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12">
-					<div class="circle-img flex"></div>
+					<div class="flex">
+						<img src="/assets/lombaPoster.png" width="80%" alt="hilang">
+					</div>
 					<br>
-					<h5 class="flex pb-5">
+					<h4 class="flex pb-5">
 						<strong>
 							Poster Competition
 						</strong>
-					</h5>
+					</h4>
+					<div class="flex pb-3">
+						<a href="https://bit.ly/PendaftaranLombaPosterDinamik-16"><button type="button" class="btn btn-danger btn-md mb-5">Daftar</button></a>
+					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-12">
 					<h5>
@@ -57,25 +60,57 @@
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam. <br><br> </p>
-
+					<p>saatnya kamu menunjukan keahlianmu dalam lomba poster dinamik 16, buatlah poster terbaik dengan tema “Motivasi, Inovasi dan teknologi”. ayo tunggu apalagi, submit karya terbaikmu.<br><br> </p>
 					<h5>
 						<strong>
 							Jadwal
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit <br><br></p>
-
+					<p><strong> Pendaftaran :</strong> 31 Oktober 2021 s/d 7 November 2021<br>
+					<strong> Pengumpulan karya :</strong> 15 November 2021  s/d 30 November 2021</p>
+					<br>
 					<h5>
 						<strong>
 							Rules Of Commpetition
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p>
+					<!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p> -->
+					<button type="button" class="btn btn-danger btn-md">Submit</button>
 				</div>
+			</div>
+		</div>
+		<div class="container-fluid footer mt-5">
+			<div class="row flex-style m-5 mt-3 mb-3" style="border-bottom: 4px solid white;">
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<img src="/assets/logo.png" width="12%" alt="logo">
+					&nbsp;
+					<img src="/assets/Mask Group.png" width="50%" alt="logo">
+					<p class="pt-5" style="font-size:13px;">
+						Dinamik adalah acara perayaan ulang tahun keluarga mahasiswa ilmu komputer upi. Dinamik 16 mengusung tema “Character evolution for a better future
+					</p> 
+				</div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
+						Our Social Media
+					</p>
+					<span class="iconify" style="font-size: 20px" data-icon="akar-icons:instagram-fill"></span> &nbsp; @dinamik16
+				</div>
+
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
+						Usefull Links
+					</p>
+					<a href="/home" style="text-decoration: none; color: white">Home</a> <br>
+					<a href="/home#about" style="text-decoration: none; color: white">About</a> <br>
+					<a href="/home#event" style="text-decoration: none; color: white">Event</a>
+				</div>
+			</div>
+			<div class="row">
+				<p style="text-align: center;">Developed by DINAMIK Design Team</p>
 			</div>
 		</div>
 

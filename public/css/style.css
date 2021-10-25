@@ -83,6 +83,14 @@
     text-align: center;
 }
 
+.countdown {
+    font-size: 45px;
+    color: white; 
+    text-align:center; 
+    position: absolute; 
+    top:1250px
+}
+
 .circle-img {
     background-color: grey;
     width: 100px;
@@ -93,7 +101,7 @@
 .hidden-logo {
     width: 150px;
     position: absolute; 
-    top: 1380px; 
+    top: 1850px; 
     left: 600px;
 }
 
@@ -203,7 +211,7 @@
 @media screen and (max-width: 1200px) 
 {
     .hidden-logo {
-        top: 1250px;
+        top: 1600px;
         left: 430px;
     }
 
@@ -213,6 +221,11 @@
 
     .logo {
         width: 25%;
+    }
+
+    .countdown {
+        top: 1060px;
+        font-size: 40px;
     }
 }
 
@@ -228,6 +241,11 @@
 
     .left-text {
         text-align: center;
+    }
+
+    .countdown {
+        top: 1310px;
+        font-size: 25px;
     }
 
     .centered-content {
@@ -279,6 +297,11 @@
 
     .logo {
         width: 35%;
+    }
+
+    .countdown {
+        font-size: 17px;
+        top:1190px
     }
 
     .timeline::after {

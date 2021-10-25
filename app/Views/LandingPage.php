@@ -21,7 +21,7 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav mx-auto mb-2 mb-lg-0 gap-3">
 						<li class="nav-item">
-							<a class="nav-link" href="">HOME</a>
+							<a class="nav-link" href="/home">HOME</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#event">EVENTS</a>
@@ -68,17 +68,28 @@
 					<img class="flex pt-3 pb-5 logo" src="/assets/logo.png" width="40%" alt="logo-dinamik">
 				</div>
 			</div>
+		</div>
 
+		<div class="container-fluid">
+			<div class="row banner-bg mt-5">
+				<img src="/assets/bann.png" class="banner" alt="planet-banner">
+				<p class="countdown" id="demo" style="font-weight: bold"></p>
+			</div>
+		</div>
+
+		<div class="container">
 			<div class="row flex mt-5">
-				<h3 style="text-align: center; color: #f97068; font-weight: bold">
+				<h3 style="text-align: center; color: #f97068; font-weight: bold" class="mt-3">
 					WHY SHOULD YOU JOIN THIS EVENT
 				</h3>
 			</div>
 
 			<div class="row mt-5 centered-content">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3 left-text">
-					<div class="circle-img img-centered1 mb-4"></div>
-					<h4>
+					<div class="img-centered1 mb-4">
+						<img src="/assets/Group 30.png" width="35%" alt="logo">
+					</div>
+					<h4 style="font-weight: bold;">
 						Great Speaker
 					</h4>
 					<p>
@@ -91,8 +102,10 @@
 				</div>
 
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3">
-					<div class="circle-img img-centered2 mb-4 me-auto"></div>
-					<h4>
+					<div class="img-centered2 mb-4 me-auto">
+						<img src="/assets/Group 31.png" width="35%" alt="logo">
+					</div>
+					<h4 style="font-weight: bold;">
 						Upgrade Yourself
 					</h4>
 					<p>
@@ -103,8 +116,10 @@
 
 			<div class="row mt-5 centered-content">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3 left-text">
-					<div class="circle-img img-centered1 mb-4"></div>
-					<h4>
+					<div class="img-centered1 mb-4">
+						<img src="/assets/Group 32.png" width="35%" alt="logo">
+					</div>
+					<h4 style="font-weight: bold;">
 						Complete
 					</h4>
 					<p>
@@ -115,8 +130,10 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3 hide-col"></div>
 
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3">
-					<div class="circle-img img-centered2 mb-4 me-auto"></div>
-					<h4>
+					<div class="img-centered2 mb-4 me-auto">
+						<img src="/assets/Group 33.png" width="35%" alt="logo">
+					</div>
+					<h4 style="font-weight: bold;">
 						Have Fun
 					</h4>
 					<p>
@@ -126,15 +143,15 @@
 			</div>			
 		</div>
 
-		<div class="container-fluid">
+		<div class="container-fluid pt-5">
 			<div class="row banner-bg mt-5">
 				<img src="/assets/banner.png" class="banner" alt="planet-banner">
 			</div>
 		</div>
 		<p style="color: white" id="event">.</p>
 
-		<div class="container">
-			<div class="row flex mt-5">
+		<div class="container pt-5">
+			<div class="row flex mt-3">
 				<h3 style="text-align: center; color: #f97068; font-weight: bold">
 					SERIES OF EVENTS
 				</h3>
@@ -143,10 +160,12 @@
 				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
 					<div class="card card-event">
 						<div class="card-body">
-							<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-							<h5>WEBINAR SERIES</h5>	
-							<p class="mt-3">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/icoen webinar series.png" width="45%" alt="logo">
+							</div>
+							<h5 style="color: #142d5e; font-weight: bold;">WEBINAR SERIES</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Ikuti webinar series yang akan memperluas wawasan dan pengetahuanmu
 							</p>
 							<a href="<?php echo site_url('Webinar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 							</div>					
@@ -155,10 +174,12 @@
 				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
 					<div class="card card-event">
 						<div class="card-body">
-							<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-							<h5>NATIONAL SEMINAR</h5>	
-							<p class="mt-3">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/icon seminar nasional.png" width="45%" alt="logo">
+							</div>
+							<h5 style="color: #142d5e; font-weight: bold;">NATIONAL SEMINAR</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Ikuti seminar nasional yang akan diisi oleh pemateri - pemateri hebat yang ahli ada bidangnya
 							</p>
 							<a href="<?php echo site_url('Seminar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
@@ -167,10 +188,12 @@
 				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
 					<div class="card card-event">
 						<div class="card-body">
-							<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-							<h5>POSTER COMPETITION</h5>	
-							<p class="mt-3">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/lombaPoster.png" width="45%" alt="logo">
+							</div>
+							<h5 style="color: #142d5e; font-weight: bold;">POSTER COMPETITION</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
 							</p>
 							<a href="<?php echo site_url('PosterComp') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
@@ -182,10 +205,12 @@
 				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
 					<div class="card card-event">
 						<div class="card-body">
-							<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-							<h5>TABLIGH AKBAR</h5>	
-							<p class="mt-3">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/tabligh-akbar.png" width="45%" alt="logo">
+							</div>
+							<h5 style="color: #142d5e; font-weight: bold;">TABLIGH AKBAR</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Pembukaan acara hebat dimulai dengan berdoa dan mencari keberkahan-Nya
 							</p>
 							<a href="<?php echo site_url('TablighAkbar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
@@ -194,10 +219,11 @@
 				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
 					<div class="card card-event">
 						<div class="card-body">
-							<div class="circle-img mb-4" style="margin: 0 auto;"></div>
-							<h5>ALUMNI MEETUP</h5>	
-							<p class="mt-3">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corporis, inventore odio laborum sunt maxime ex corrupti ducimus.
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/icon alumni meetup.png" width="45%" alt="logo">
+							</div>							<h5 style="color: #142d5e; font-weight: bold;">ALUMNI MEETUP</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Cari tau lebih banyak tentang alumni dari jurusan ilmu komputer dan pendidikan ilmu komputer
 							</p>
 							<a href="<?php echo site_url('Meetup') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
@@ -278,14 +304,15 @@
 			<img src="/assets/timeline-banner2.png" alt="" class="timeline-banner2">			
 		</div>
 		
-		<div class="container mt-3">
+		 <div class="container mt-3">
 			<div class="row p-5">
 				<h3 style="text-align: center; color: #f97068; font-weight: bold">
 					OUR SPONSOR
 				</h3>
+				<!-- sponsor belum ada -->
+				<div style="height: 450px"></div>
 			</div>
-
-			<div class="row">
+			<!-- <div class="row">
 				<div class="col-lg-3 col-md-3 col-6 mb-4">
 					<div class="card card-sponsor">
 						<div class="card-body">
@@ -343,42 +370,37 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
+			</div> -->
+		</div> 
 
-		<div class="container-fluid footer mt-5">
-			<div class="row flex-style">
-				<div class="col-lg-3 col-md-4 col-sm-12 col-12 p-4">
-					<img src="/assets/logo.png" width="6%" alt="logo">
+		<div class="container-fluid footer">
+			<div class="row flex-style m-5 mt-3 mb-3" style="border-bottom: 4px solid white;">
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<img src="/assets/logo.png" width="12%" alt="logo">
 					&nbsp;
-					<img src="/assets/Mask Group.png" width="31%" alt="logo">
-					<br><br>
-					<span style="font-weight: bold">
+					<img src="/assets/Mask Group.png" width="50%" alt="logo">
+					<p class="pt-5" style="font-size:13px;">
+						Dinamik adalah acara perayaan ulang tahun keluarga mahasiswa ilmu komputer upi. Dinamik 16 mengusung tema “Character evolution for a better future
+					</p> 
+				</div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
 						Our Social Media
-					</span> 
-					<br>
-					<span class="iconify" style="font-size: 20px" data-icon="akar-icons:instagram-fill"></span>
-					@dinamik16
+					</p>
+					<span class="iconify" style="font-size: 20px" data-icon="akar-icons:instagram-fill"></span> &nbsp; @dinamik16
 				</div>
 
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 p-4">
-					<p class="pb-2">
-						Media Partner
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
+						Usefull Links
 					</p>
-					<div class="footer-circle"></div>
-					<div class="footer-circle"></div>
-				</div>
-
-				<div class="col-lg-5 col-md-4 col-sm-12 col-12 p-4">
-					<p class="pb-2">
-						Sponsor
-					</p>
-					<div class="footer-circle"></div>
-					<div class="footer-circle"></div>
-					<div class="footer-circle"></div>
+					<a href="/home" style="text-decoration: none; color: white">Home</a> <br>
+					<a href="/home#about" style="text-decoration: none; color: white">About</a> <br>
+					<a href="/home#event" style="text-decoration: none; color: white">Event</a>
 				</div>
 			</div>
-			<div class="row mt-5">
+			<div class="row">
 				<p style="text-align: center;">Developed by DINAMIK Design Team</p>
 			</div>
 		</div>
@@ -386,5 +408,30 @@
 		<!-- Bootstrap & iconify -->
 		<script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
+		<!-- Display the countdown timer in an element -->
+		<script>
+			// Set the date we're counting down to
+			var countDownDate = new Date("Oct 31, 2021 00:00:00").getTime();
+			// Update the count down every 1 second
+			var x = setInterval(function() {
+			// Get today's date and time
+			var now = new Date().getTime();
+			// Find the distance between now and the count down date
+			var distance = countDownDate - now;
+			// Time calculations for days, hours, minutes and seconds
+			var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+			var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+			var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+			var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+			// Display the result in the element with id="demo"
+			document.getElementById("demo").innerHTML = days + " Days " + hours + " Hour "
+			+ minutes + " Minute " + seconds + " Second ";
+			// If the count down is finished, write some text
+			if (distance < 0) {
+				clearInterval(x);
+				document.getElementById("demo").innerHTML = "EXPIRED";
+			}
+			}, 1000);
+		</script>
 	</body>
 </html>
