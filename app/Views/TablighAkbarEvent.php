@@ -50,7 +50,7 @@
 						</strong>
 					</h4>
 					<div class="flex pb-3">
-						<button type="button" class="btn btn-danger btn-md mb-5">Gabung</button>
+						<a href="http://bit.ly/PendaftaranTablighAkbarDInamik16"><button type="button" class="btn btn-danger btn-md mb-5">Gabung</button></a>
 					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-12">
