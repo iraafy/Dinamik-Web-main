@@ -71,9 +71,11 @@
 		</div>
 
 		<div class="container-fluid">
-			<div class="row banner-bg mt-5">
+			<div class="row banner-bg mt-5 position-relative">
 				<img src="/assets/bann.png" class="banner" alt="planet-banner">
-				<p class="countdown" id="demo" style="font-weight: bold"></p>
+				<div style="bottom:0" class="mb-2 text-center position-absolute">
+					<h1 class="text-light" id="demo" style="font-weight: bold; font-size:3vw;"></h1>
+				</div>
 			</div>
 		</div>
 
@@ -97,8 +99,10 @@
 					</p>
 				</div>
 
-				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3 hide-col">
-					<img src="/assets/logo.png" class="hidden-logo" alt="hidden-logo">
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3 d-none d-lg-block position-relative">
+					<div style="margin-bottom:-100px; bottom:0;" class="text-center position-absolute">
+						<img src="/assets/logo.png" width="50%" class="img-fluid" alt="hidden-logo">
+					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3">
@@ -127,7 +131,7 @@
 					</p>
 				</div>
 
-				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3 hide-col"></div>
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3 d-none d-lg-block"></div>
 
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12 mt-3">
 					<div class="img-centered2 mb-4 me-auto">
