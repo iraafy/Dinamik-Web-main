@@ -32,6 +32,11 @@ $routes->setAutoRoute(true);
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
+$routes->get('/event/tabligh-akbar', 'TablighAkbar::index');
+$routes->get('/event/poster-competition', 'PosterComp::index');
+$routes->get('/event/national-seminar', 'Seminar::index');
+$routes->get('/event/webinar-series', 'Webinar::index');
+$routes->get('/event/alumni-meetup', 'Meetup::index');
 
 /*
  * --------------------------------------------------------------------

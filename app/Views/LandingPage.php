@@ -171,7 +171,7 @@
 							<p class="mt-3" style="font-size: 15px;">
 								Ikuti webinar series yang akan memperluas wawasan dan pengetahuanmu
 							</p>
-							<a href="<?php echo site_url('Webinar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="/event/webinar-series" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 							</div>					
 						</div>
 					</div>
@@ -185,7 +185,7 @@
 							<p class="mt-3" style="font-size: 15px;">
 								Ikuti seminar nasional yang akan diisi oleh pemateri - pemateri hebat yang ahli ada bidangnya
 							</p>
-							<a href="<?php echo site_url('Seminar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="/event/national-seminar" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
 					</div>
 				</div>
@@ -199,7 +199,7 @@
 							<p class="mt-3" style="font-size: 15px;">
 								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
 							</p>
-							<a href="<?php echo site_url('PosterComp') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="/event/poster-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
 					</div>
 				</div>
@@ -216,7 +216,7 @@
 							<p class="mt-3" style="font-size: 15px;">
 								Pembukaan acara hebat dimulai dengan berdoa dan mencari keberkahan-Nya
 							</p>
-							<a href="<?php echo site_url('TablighAkbar') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="/event/tabligh-akbar" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
 					</div>
 				</div>
@@ -229,7 +229,7 @@
 							<p class="mt-3" style="font-size: 15px;">
 								Cari tau lebih banyak tentang alumni dari jurusan ilmu komputer dan pendidikan ilmu komputer
 							</p>
-							<a href="<?php echo site_url('Meetup') ?>" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="/event/alumni-meetup" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
 					</div>
 				</div>
