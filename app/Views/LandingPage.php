@@ -70,7 +70,7 @@
 				</div>
 			</div>
 		</div>
-
+		<!--
 		<div class="container-fluid">
 			<div class="row banner-bg mt-5 position-relative">
 				<img src="/assets/bann.png" class="banner" alt="planet-banner">
@@ -79,7 +79,7 @@
 				</div>
 			</div>
 		</div>
-
+		-->
 		<div class="container">
 			<div class="row flex mt-5">
 				<h3 style="text-align: center; color: #f97068; font-weight: bold" class="mt-3">
@@ -194,23 +194,6 @@
 					<div class="card card-event">
 						<div class="card-body">
 							<div class="mb-4" style="margin: 0 auto;">
-								<img src="/assets/lombaPoster.png" width="45%" alt="logo">
-							</div>
-							<h5 style="color: #142d5e; font-weight: bold;">POSTER COMPETITION</h5>	
-							<p class="mt-3" style="font-size: 15px;">
-								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
-							</p>
-							<a href="/event/poster-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
-						</div>					
-					</div>
-				</div>
-			</div>
-			<div class="row mt-2 flex" style="text-align: center;">
-				<div class="col-lg-2 col-md-2 col-sm-12 p-3 hide-col"></div>
-				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
-					<div class="card card-event">
-						<div class="card-body">
-							<div class="mb-4" style="margin: 0 auto;">
 								<img src="/assets/tabligh-akbar.png" width="45%" alt="logo">
 							</div>
 							<h5 style="color: #142d5e; font-weight: bold;">TABLIGH AKBAR</h5>	
@@ -221,6 +204,54 @@
 						</div>					
 					</div>
 				</div>
+			</div>
+			<div class="row mt-2 flex" style="text-align: center;">
+				<!--<div class="col-lg-2 col-md-2 col-sm-12 p-3 hide-col"></div>-->
+				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
+					<div class="card card-event">
+						<div class="card-body">
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/icon-lomba-poster.png" width="45%" alt="logo">
+							</div>
+							<h5 style="color: #142d5e; font-weight: bold;">POSTER COMPETITION</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
+							</p>
+							<a href="/event/poster-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+						</div>					
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
+					<div class="card card-event">
+						<div class="card-body">
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/icon-lomba-web.png" width="45%" alt="logo">
+							</div>
+							<h5 style="color: #142d5e; font-weight: bold;">WEB DESIGN COMPETITION</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
+							</p>
+							<a href="/event/poster-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+						</div>					
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
+					<div class="card card-event">
+						<div class="card-body">
+							<div class="mb-4" style="margin: 0 auto;">
+								<img src="/assets/icon-lomba-esai.png" width="45%" alt="logo">
+							</div>
+							<h5 style="color: #142d5e; font-weight: bold;">ESSAY COMPETITION</h5>	
+							<p class="mt-3" style="font-size: 15px;">
+								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
+							</p>
+							<a href="/event/poster-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+						</div>					
+					</div>
+				</div>
+				<!--!<div class="col-lg-2 col-md-12 col-sm-12 p-3 flex hide-col"></div>-->
+			</div>
+			<div class="row mt-2 flex" style="text-align: center;">
 				<div class="col-lg-4 col-md-12 col-sm-12 p-3 flex">
 					<div class="card card-event">
 						<div class="card-body">
@@ -234,7 +265,6 @@
 						</div>					
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-12 col-sm-12 p-3 flex hide-col"></div>
 			</div>
 		</div>
 		
