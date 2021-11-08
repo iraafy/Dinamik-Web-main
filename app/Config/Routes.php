@@ -37,6 +37,8 @@ $routes->get('/event/poster-competition', 'PosterComp::index');
 $routes->get('/event/national-seminar', 'Seminar::index');
 $routes->get('/event/webinar-series', 'Webinar::index');
 $routes->get('/event/alumni-meetup', 'Meetup::index');
+$routes->get('/event/web-design-competition', 'WebComp::index');
+$routes->get('/event/essay-competition', 'EssayComp::index');
 
 /*
  * --------------------------------------------------------------------

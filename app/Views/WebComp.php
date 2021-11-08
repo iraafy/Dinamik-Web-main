@@ -42,16 +42,16 @@
 			<div class="row p-3" style="text-align: justify;">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12">
 					<div class="flex">
-						<img src="/assets/icon-lomba-poster.png" width="80%" alt="hilang">
+						<img src="/assets/icon-lomba-web.png" width="80%" alt="hilang">
 					</div>
 					<br>
 					<h4 class="flex pb-5">
 						<strong>
-							Poster Competition
+							Website Design Competition
 						</strong>
 					</h4>
 					<div class="flex pb-3">
-						<a href="https://docs.google.com/forms/d/e/1FAIpQLScjq5C4Qmf2xq3yKcFLhVJ2aNsbh1KgcscbMiAJWaEBL-xG5w/viewform"><button type="button" class="btn btn-danger btn-md mb-5">Daftar</button></a>
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSdz-820XBA8IcfzteNpusC-9I6FvJMYCIFweuHy4fnluNIknw/viewform"><button type="button" class="btn btn-danger btn-md mb-5">Daftar</button></a>
 					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-12">
@@ -61,7 +61,7 @@
 						</strong>
 					</h5>
 					<br>
-					<p>saatnya kamu menunjukan keahlianmu dalam lomba poster dinamik 16, buatlah poster terbaik dengan tema “Motivasi, Inovasi dan teknologi”. ayo tunggu apalagi, submit karya terbaikmu.<br><br> </p>
+					<p>saatnya kamu menunjukan keahlianmu dalam lomba web design dinamik 16, buatlah design website terbaik. ayo tunggu apalagi, submit karya terbaikmu.<br><br> </p>
 					<h5>
 						<strong>
 							Jadwal
@@ -79,7 +79,7 @@
 					<br>
 					<!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
 					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p> -->
-					<a href="https://docs.google.com/document/d/1BDCjKFHZsBGBNM7YIiQ5YxZajiRO-wmO/edit"><button type="button" class="btn btn-danger btn-md">Rules</button></a>
+					<a href="https://docs.google.com/document/d/13KsadLTqzSiIbQdEBMCsZ10Q4AQyKQC4/edit"><button type="button" class="btn btn-danger btn-md">Rules</button></a>
 				</div>
 			</div>
 		</div>

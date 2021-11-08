@@ -231,7 +231,7 @@
 							<p class="mt-3" style="font-size: 15px;">
 								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
 							</p>
-							<a href="/event/poster-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="/event/web-design-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
 					</div>
 				</div>
@@ -245,7 +245,7 @@
 							<p class="mt-3" style="font-size: 15px;">
 								Tunjukan skill mu dan berkompetisi lah untuk mengambangkan potensimu
 							</p>
-							<a href="/event/poster-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
+							<a href="/event/essay-competition" class="btn rounded-pill bg-danger px-4 pe-4 mt-3" style="color: white;">MORE</a>							
 						</div>					
 					</div>
 				</div>
