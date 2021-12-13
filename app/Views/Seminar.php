@@ -43,13 +43,18 @@
 		<div class="container mt-5 pt-5">
 			<div class="row p-3" style="text-align: justify;">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12">
-					<div class="circle-img flex"></div>
+					<div class="flex">
+						<img src="/assets/icon seminar nasional.png" width="80%" alt="hilang">
+					</div>
 					<br>
 					<h5 class="flex pb-5">
 						<strong>
 							National Seminar
 						</strong>
 					</h5>
+					<div class="flex pb-3">
+						<a href="https://bit.ly/SemnasDinamik16"><button type="button" class="btn btn-danger btn-md mb-5">Daftar</button></a>
+					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-12">
 					<h5>
@@ -58,7 +63,7 @@
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam. <br><br> </p>
+					<p>Hadirilah seminar nasional DINAMIK 16. Mengusung tema "Knowing Your Passion and Building Your Future Career" seminar nasional ini akan menambah insigth mu mengenai passion dan cara memangung karir di masa depan<br><br> </p>
 
 					<h5>
 						<strong>
@@ -66,16 +71,19 @@
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit <br><br></p>
+					<p>Minggu, 19 Desember 2021<br>09.00 s.d. 12.00<br></p>
 
 					<h5>
 						<strong>
-							Rules Of Commpetition
+							Speaker
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p>
+					<p><strong>Abdurrosyid Broto Handoyo</strong><br>
+					Founder/CEO Azura Labs<br>Software Engineering Advisor Telkom Indonesia</p>
+					<br>
+					<p><strong>Banyu Rachman</strong><br>
+					UX Engineer Blibli</p>
 				</div>
 			</div>
 		</div>

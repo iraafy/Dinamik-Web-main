@@ -43,13 +43,18 @@
 		<div class="container mt-5 pt-5">
 			<div class="row p-3" style="text-align: justify;">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12">
-					<div class="circle-img flex"></div>
+					<div class="flex">
+						<img src="/assets/icoen webinar series.png" width="80%" alt="hilang">
+					</div>
 					<br>
 					<h5 class="flex pb-5">
 						<strong>
 							Webinar Series
 						</strong>
 					</h5>
+					<div class="flex pb-3">
+						<a href="http://bit.ly/WebinarSeriesDinamik16"><button type="button" class="btn btn-danger btn-md mb-5">Daftar</button></a>
+					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-12">
 					<h5>
@@ -58,7 +63,10 @@
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam. <br><br> </p>
+					<p>Dinamik mengadakan kegiatan Webinar Series dengan berbagai tema menarik, yaitu:<br>
+						01. Mental Health : "How to Manage Overthinking and Deal with Academic Stress"<br>
+						02. Prepare Future : "What You(th) Should Prepare for the Future"<br>
+						03. Public Speaking : "How Public Speaking Can Impact Your Career and Your Life"<br><br> </p>
 
 					<h5>
 						<strong>
@@ -66,16 +74,23 @@
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit <br><br></p>
-
+					<p><strong>Webinar 1 - Mental Health</strong><br>Sabtu, 11 Desember 2021<br>09.00 s.d. 11.45<br></p>
+					<p><strong>Webinar 2 - Prepare Future</strong><br>Minggu, 12 Desember 2021<br>13.00 s.d. 15.30<br></p>
+					<p><strong>Webinar 3 - Public Speaking</strong><br>Sabtu, 18 Desember 2021<br>13.00 s.d. 15.30<br></p>
 					<h5>
 						<strong>
-							Rules Of Commpetition
+							Speaker
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p>
+					<p><strong>Putu Denika Evilia Rosa, S.Psi.</strong><br>
+					Mentor - Satu Persen</p>
+					<br>
+					<p><strong>Renisa Suryahadikusumah</strong><br>
+					PDEng Software Technology Trainee 2021, Eindhoven University of Technology</p>
+					<br>
+					<p><strong>M. Syafiul Muktapa, C.STMI, C.MC, C.PS.</strong><br>
+					Founder Bicarapede Academy</p>
 				</div>
 			</div>
 		</div>
