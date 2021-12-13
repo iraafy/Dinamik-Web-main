@@ -50,45 +50,51 @@
 							Website Design Competition
 						</strong>
 					</h4>
-					<div class="flex pb-3">
-						<a href="https://docs.google.com/forms/d/e/1FAIpQLSdz-820XBA8IcfzteNpusC-9I6FvJMYCIFweuHy4fnluNIknw/viewform"><button type="button" class="btn btn-danger btn-md mb-5">Daftar</button></a>
-					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-12">
-					<h5>
-						<strong>
-							Deskripsi Event
-						</strong>
-					</h5>
-					<br>
-					<p>saatnya kamu menunjukan keahlianmu dalam lomba web design dinamik 16, buatlah design website terbaik. ayo tunggu apalagi, submit karya terbaikmu.<br><br> </p>
-					<h5>
-						<strong>
-							Jadwal
-						</strong>
-					</h5>
-					<br>
-					<p><strong> Pendaftaran :</strong> 8 November 2021 s/d 5 Desember 2021<br>
-					<strong> Pengumpulan karya :</strong> 6 Desember 2021  s/d 19 Desember 2021</p>
-					<br>
-					<h5>
-						<strong>
-							Rules Of Commpetition
-						</strong>
-					</h5>
-					<br>
-					<!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p> -->
-					<a href="https://docs.google.com/document/d/13KsadLTqzSiIbQdEBMCsZ10Q4AQyKQC4/edit"><button type="button" class="btn btn-danger btn-md">Rules</button></a>
-					<br>
-					<br>
 					<h5>
 						<strong>
 							Karya Peserta
 						</strong>
 					</h5>
 					<br>
-					<a href="/event/web-design-competition/showcase"><button type="button" class="btn btn-danger btn-md">Showcase</button></a>
+					<p>Berikut adalah beberapa showcase karya dari peserta<br><br></p>
+					<table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Nama</th>
+                            <th scope="col">Tim</th>
+                            <th scope="col">Karya</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Sandi Fauzan Rabani</td>
+                            <td>CODELABS</td>
+                            <td><a href="https://vrskul.netlify.app/">vrskul</a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Ariq Hikari Hidayat</td>
+                            <td>ORBIT</td>
+                            <td><a href="https://spacewalk.auroraweb.id/">spacewalk</a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Muhammad Fadillah Syafiq</td>
+                            <td>Sinister 3</td>
+                            <td><a href="https://libraerity.vercel.app/">libraerity</a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Syahrul Awaludin</td>
+                            <td>Vander Code</td>
+                            <td><a href="https://vandercode2021.github.io/">vanderCode</a></td>
+                        </tr>
+                    </tbody>
+                    </table>
 				</div>
 			</div>
 		</div>
