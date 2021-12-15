@@ -165,6 +165,24 @@
                             <td>SOLID</td>
                             <td><a href="https://showcase-dinamik.kemakom.org/solid/splashscreen/pleasewait.html">SOLID</a></td>
                         </tr>
+						<tr>
+                            <th scope="row">17</th>
+                            <td>Farel Irawan</td>
+                            <td>P.I TEAM</td>
+                            <td><a href="http://showcase-dinamik.kemakom.org/pi-team/">LOREGRAM</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">18</th>
+                            <td>Dzaki Muhamad Hilmi</td>
+                            <td>Rabbit Team</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/rabbit/">Rabbit Team</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">19</th>
+                            <td>Tuti Rahmawati</td>
+                            <td>ICS42</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/ICS42/">ICS42</a></td>
+                        </tr>
                     </tbody>
                     </table>
 				</div>
