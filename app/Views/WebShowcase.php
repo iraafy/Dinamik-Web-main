@@ -93,6 +93,78 @@
                             <td>Vander Code</td>
                             <td><a href="https://vandercode2021.github.io/">vanderCode</a></td>
                         </tr>
+						<tr>
+                            <th scope="row">5</th>
+                            <td>Muhammad Farrell</td>
+                            <td>SELFi</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/selfi/">SELFi</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">6</th>
+                            <td>Rafly</td>
+                            <td>ICS41</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/ICS_41/">LuarKelas</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">7</th>
+                            <td>Rakhi Azfa Rifansya</td>
+                            <td>VanDeventer2nd</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/VanDeventer2nd/">Groch.</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">8</th>
+                            <td>Fauzan Achmad</td>
+                            <td>D'Venter1</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/D'Venter1/">E-library</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">9</th>
+                            <td>Swarnoto</td>
+                            <td>VanDeventer3rd</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/VanDeventer3rd/">E-Learning</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">10</th>
+                            <td>Alvin Adisatria</td>
+                            <td>PandeCoder</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/pandecoder/">dream.edu</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">11</th>
+                            <td>Rahman Hakim</td>
+                            <td>Monad</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/Monad/">Pusat Informasi Edukatif</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">12</th>
+                            <td>Ryan Aditya Puluhulawa</td>
+                            <td>Kangen Mantan</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/Berkoding/">Berkoding</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">13</th>
+                            <td>Humam Ibadillah</td>
+                            <td>Team Curious</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/curious/">EduCast</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">14</th>
+                            <td>Dio Syahputra</td>
+                            <td>Blixim's</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/blixims/">EzToLearn.</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">15</th>
+                            <td>Cakra Komala</td>
+                            <td>led-lascar</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/led-lascar/">LED COMMUNITY</a></td>
+                        </tr>
+						<tr>
+                            <th scope="row">16</th>
+                            <td>Ariq Aqilla</td>
+                            <td>SOLID</td>
+                            <td><a href="https://showcase-dinamik.kemakom.org/solid/splashscreen/pleasewait.html">SOLID</a></td>
+                        </tr>
                     </tbody>
                     </table>
 				</div>
