@@ -345,7 +345,11 @@
 					OUR SPONSOR
 				</h3>
 				<!-- sponsor belum ada -->
-				<div style="height: 450px"></div>
+				<div style="height: 160px">
+					<div class="d-flex justify-content-center align-items-center">	
+						<img src="/assets/Logo Cakap.png" width="50%" alt="logo">
+					</div>
+				</div>
 			</div>
 			<!-- <div class="row">
 				<div class="col-lg-3 col-md-3 col-6 mb-4">
@@ -433,6 +437,12 @@
 					<a href="/home" style="text-decoration: none; color: white">Home</a> <br>
 					<a href="/home#about" style="text-decoration: none; color: white">About</a> <br>
 					<a href="/home#event" style="text-decoration: none; color: white">Event</a>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
+						Our Sponsor
+					</p>
+					<img src="/assets/Logo Cakap.png" width="50%" alt="logo">
 				</div>
 			</div>
 			<div class="row">

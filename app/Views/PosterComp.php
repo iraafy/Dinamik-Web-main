@@ -109,6 +109,12 @@
 					<a href="/home#about" style="text-decoration: none; color: white">About</a> <br>
 					<a href="/home#event" style="text-decoration: none; color: white">Event</a>
 				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 p-4">
+					<p class="pb-2 pt-3" style="color: #7fdec9; font-weight: bold;">
+						Our Sponsor
+					</p>
+					<img src="/assets/Logo Cakap.png" width="50%" alt="logo">
+				</div>
 			</div>
 			<div class="row">
 				<p style="text-align: center;">Developed by DINAMIK Design Team</p>
